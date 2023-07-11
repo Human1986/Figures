@@ -11,4 +11,6 @@ abstract class Figure{
     }
 
     public abstract Point leftmostPoint();
+
+
 }
